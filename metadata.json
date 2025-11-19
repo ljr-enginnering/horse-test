@@ -1,0 +1,5 @@
+{
+  "name": "Derby Dash",
+  "description": "A real-time horse racing simulation where 10 horses compete for glory using random probability logic.",
+  "requestFramePermissions": []
+}
